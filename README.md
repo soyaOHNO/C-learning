@@ -8,9 +8,21 @@ This file is for studying the C programming language.
 3. I will create an algorithm to calculate edit distance.
 
 ## Development Environment
-| OS       | Windows 11 Home (Version 24H2)                           |
-| Compiler | gcc (x86_64-posix-seh-rev0, Built by MinGW-Builds project) 13.2.0 |
-| Editor   | VSCode                                                  |
+<table>
+  <tr>
+    <th>OS</th>
+    <td>Windows 11 Home (Version 24H2)</td>
+  </tr>
+  <tr>
+    <th>Compiler</th>
+    <td>gcc (x86_64-posix-seh-rev0, Built by MinGW-Builds project) 13.2.0</td>
+  </tr>
+  <tr>
+    <th>Editor</th>
+    <td>VSCode</td>
+  </tr>
+</table>
+                                               |
 
 
 ## Editor
