@@ -8,13 +8,13 @@ This file is for studying the C programming language.
 3. I will create an algorithm to calculate edit distance.
 
 ## Development Environment
-OS:  Windows 11 Home (Version 24H2)
+OS | Windows 11 Home (Version 24H2)
 
-Compiler:  gcc (x86_64-posix-seh-rev0, Built by MinGW-Builds project) 13.2.0
+Compiler | gcc (x86_64-posix-seh-rev0, Built by MinGW-Builds project) 13.2.0
 
-Editor:  VSCode
+Editor | VSCode
 
 ## Editor
-name: souyaOHNO
+name | souyaOHNO
 
-Affiliation: Computer Science Course, Faculty of Engineering, Okayama University
+Affiliation | Computer Science Course, Faculty of Engineering, Okayama University
