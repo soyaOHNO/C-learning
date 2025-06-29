@@ -23,8 +23,3 @@ This file is for studying the C programming language.
   </tr>
 </table>
                                                |
-
-
-## Editor
-| name        | souyaOHNO                                                           |
-| Affiliation | Computer Science Course, Faculty of Engineering, Okayama University |
