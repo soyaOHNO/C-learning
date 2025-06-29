@@ -22,4 +22,3 @@ This file is for studying the C programming language.
     <td>VSCode</td>
   </tr>
 </table>
-                                               |
