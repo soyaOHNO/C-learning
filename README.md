@@ -5,7 +5,8 @@ This file is for studying the C programming language.
 
 ## Contents
 1. I will implement the contents of the "string.h" file myself.
-3. I will create an algorithm to calculate edit distance.
+2. I will create an algorithm to calculate edit distance.
+3. The folder called "pra" includes various files for practice.
 
 ## Development Environment
 <table>
